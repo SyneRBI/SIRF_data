@@ -6,7 +6,8 @@
 
 !GENERAL DATA:=
 data description:=PET scanner normalization Coefficients
-!name of data file:=norm.n%expiration date (yyyy:mm:dd):=2099:01:01
+!name of data file:=norm.n
+%expiration date (yyyy:mm:dd):=2099:01:01
 %expiration time (hh:mm:ss GMT-05:00):=12:00:00
 
 !GENERAL IMAGE DATA :=
