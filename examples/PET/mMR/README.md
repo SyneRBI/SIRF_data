@@ -13,4 +13,4 @@ linear attenuation coefficients (mu-values) and down-sampling it.
 ## Files
 - list.l, list.l.hdr: listmode file and its header
 - norm.n, norm.n.hdr: file with normalisation info and its header
-- mu_map.v, mu_map.hv: file iwth the attenuation image and its header (in STIR Interfile format)
+- mu_map.v, mu_map.hv: file with the attenuation image and its header (in STIR Interfile format)
