@@ -1,6 +1,6 @@
 !INTERFILE  :=
 !imaging modality := PT
-name of data file := template_span11.s
+name of data file := mMR_template_span11.s
 originating system := Siemens mMR
 !version of keys := STIR3.0
 !GENERAL DATA :=
@@ -41,7 +41,5 @@ Number of crystals per block in transaxial direction        := 9
 Number of detector layers                                   := 1
 Number of crystals per singles unit in axial direction      := 16
 Number of crystals per singles unit in transaxial direction := 9
-end scanner parameters:=
-effective central bin size (cm) := 0.208815
-number of time frames := 1
+end scanner parameters:=o
 !END OF INTERFILE :=
