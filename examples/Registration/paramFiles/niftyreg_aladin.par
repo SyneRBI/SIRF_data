@@ -1,5 +1,5 @@
 registration parameters - aladin :=
-    ; Use default values (could comment them all out as these are all set by default)
+    ; Indefinitive list of parameters. All commented out to use defaults.
     ;SetMaxIterations    := 5
     ;SetNumberOfLevels   := 5
     ;SetLevelsToPerform  := 5
