@@ -1,0 +1,7 @@
+parameterTestFile :=
+	SetMaximalIterationNumber:=1
+	;SetInverseConsistencyWeight:=1
+	;SetMaximalIterationNumber:=1
+	;SetBendingEnergyWeight := 1.54
+	;SetFloatingThresholdLow := 56.6
+end :=

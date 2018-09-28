@@ -1,0 +1,14 @@
+registration parameters - aladin :=
+    ; Indefinitive list of parameters. All commented out to use defaults.
+    ;SetMaxIterations    := 5
+    ;SetNumberOfLevels   := 5
+    ;SetLevelsToPerform  := 5
+    ;SetPerformAffine 	:= 1
+    ;SetPerformRigid		:= 1
+    ;SetBlockPercentage	:= 50.0
+    ;SetInlierLts		:= 50.0
+    ;SetAlignCentre		:= 1
+    ;SetInterpolation 	:= 0
+    ;SetFloatingSigma 	:= 0.0
+    ;SetReferenceSigma 	:= 0.0
+end :=
