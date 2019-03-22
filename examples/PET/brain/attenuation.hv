@@ -1,8 +1,11 @@
 !INTERFILE  :=
+!imaging modality := PET
 name of data file := attenuation.v
 !GENERAL DATA :=
 !GENERAL IMAGE DATA :=
 !type of data := PET
+patient orientation := head_in
+patient rotation := supine
 imagedata byte order := LITTLEENDIAN
 !PET STUDY (General) :=
 !PET data type := Image
