@@ -49,3 +49,11 @@ output.txt
 tmp*.hs
 tmp*.s
 sinograms_*s
+
+# Common editor backups
+~$*
+*~
+*.bak
+\#*
+.#*
+
