@@ -1,10 +1,13 @@
 !INTERFILE  :=
+!imaging modality := PET
 name of data file := mu_map.v
 !GENERAL DATA :=
 !GENERAL IMAGE DATA :=
 !type of data := PET
 imagedata byte order := LITTLEENDIAN
 !PET STUDY (General) :=
+patient orientation := head_in
+patient rotation := supine
 !PET data type := Image
 process status := Reconstructed
 !number format := float
