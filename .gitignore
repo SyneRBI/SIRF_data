@@ -49,6 +49,7 @@ output.txt
 tmp*.hs
 tmp*.s
 sinograms_*s
+zenodo*/
 
 # Common editor backups
 ~$*
