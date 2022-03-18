@@ -1,3 +1,4 @@
 working_folder
 *.ahv
 *~
+*_precomputed_denominator.*v
