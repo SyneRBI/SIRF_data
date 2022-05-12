@@ -13,12 +13,12 @@ imagedata byte order := LITTLEENDIAN
 !SPECT STUDY (General) := 
 ;number of dimensions := 2
 ;matrix axis label [2] := axial coordinate
-!matrix size [2] := 12
-!scaling factor (mm/pixel) [2] := 3.32
+!matrix size [2] := 1
+!scaling factor (mm/pixel) [2] := 2.03125
 ;matrix axis label [1] := bin coordinate
-!matrix size [1] := 128
-!scaling factor (mm/pixel) [1] := 3.32
-!number of projections := 120
+!matrix size [1] := 150
+!scaling factor (mm/pixel) [1] := 2.03125
+!number of projections := 126
 !extent of rotation := 360
 !process status := acquired
 
