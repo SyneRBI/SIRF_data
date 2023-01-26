@@ -50,6 +50,8 @@ tmp*.hs
 tmp*.s
 sinograms_*s
 zenodo*/
+my_CACHE*
+my_output*
 
 # Common editor backups
 ~$*
