@@ -2,7 +2,7 @@
 !imaging modality := PT
 name of data file := mMR_template_span11_small.s
 originating system := Siemens mMR
-!version of keys := STIR3.0
+!version of keys := STIR6.0
 !GENERAL DATA :=
 !GENERAL IMAGE DATA :=
 !type of data := PET
@@ -32,6 +32,7 @@ Average depth of interaction (cm)        := 0.7
 Distance between rings (cm)              := 0.40625
 Default bin size (cm)                    := 0.208626
 View offset (degrees)                    := 0
+Maximum number of (unmashed) TOF time bins := 1
 Maximum number of non-arc-corrected bins := 344
 Default number of arc-corrected bins     := 344
 Number of blocks per bucket in transaxial direction         := 1

@@ -32,6 +32,7 @@ Average depth of interaction (cm)        := 0.7
 Distance between rings (cm)              := 0.675
 Default bin size (cm)                    := 0.31088
 View offset (degrees)                    := 0
+Maximum number of (unmashed) TOF time bins := 1
 Maximum number of non-arc-corrected bins := 128
 Default number of arc-corrected bins     := 128
 Number of blocks per bucket in transaxial direction         := 4
