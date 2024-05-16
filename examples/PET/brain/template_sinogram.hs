@@ -2,7 +2,7 @@
 !imaging modality := PT
 name of data file := template_sinogram.hs
 originating system := userdefined
-!version of keys := STIR3.0
+!version of keys := STIR6.0
 !GENERAL DATA :=
 !GENERAL IMAGE DATA :=
 !type of data := PET
@@ -34,6 +34,7 @@ Average depth of interaction (cm)        := 0.7
 Distance between rings (cm)              := 1.35
 Default bin size (cm)                    := 0.3129
 View offset (degrees)                    := 0
+Maximum number of (unmashed) TOF time bins := 1
 Maximum number of non-arc-corrected bins := 192
 Default number of arc-corrected bins     := 192
 Number of blocks per bucket in transaxial direction         := 1
